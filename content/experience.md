@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Work Experience 💼'
 date: 2025-09-22
 type: landing
 

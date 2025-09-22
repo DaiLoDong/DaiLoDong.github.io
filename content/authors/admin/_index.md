@@ -129,29 +129,29 @@ skills:
         icon: code-bracket
       - name: Snowflake
         description: ''
-        percent: 95
+        percent: 50
         icon: snowflake
       - name: Microsoft Azure (Azure data factory, Azure databricks)
         description: ''
-        percent: 85
+        percent: 75
         icon: cloud
 
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Gaming
-        description: ''
-        percent: 100
-        icon: cpu-chip
-      - name: Building Custom Keyboards
-        description: ''
-        percent: 90
-        icon: keyboard
-      - name: Cooking
-        description: ''
-        percent: 80
-        icon: pan
+#  - name: Hobbies
+#    color: '#eeac02'
+#    color_border: '#f0bf23'
+#    items:
+#      - name: Gaming
+#        description: ''
+#        percent: 100
+#        icon: cpu-chip
+#      - name: Building Custom Keyboards
+#        description: ''
+#        percent: 90
+#        icon: keyboard
+#      - name: Cooking
+#        description: ''
+#        percent: 80
+#        icon: pan
 
 languages:
   - name: English

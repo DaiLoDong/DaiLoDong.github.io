@@ -30,11 +30,11 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
 
-  - block: markdown
-    content:
-      title: 'Work Experience 💼)'
-      subtitle: ''
-      text: ''
+  #- block: markdown
+    #content:
+      #title: 'Work Experience 💼'
+      #subtitle: ''
+      #text: ''
 
   - block: resume-experience
     content:
