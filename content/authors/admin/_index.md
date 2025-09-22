@@ -41,17 +41,18 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/edward-dong/
     
-interests:
-  - Data engineering
-  - Query optimization
-  - Supporting data driven decisions
+hobbies:
+  - Gaming
+  - Cooking
+  - Building custom keyboards
+  - Photography
 
 education:
   - area: BASc Mining Engineering (Co-op)
     institution: University of Alberta
     date_start: 2015-09-01
     date_end: 2020-05-01
-    summary: |
+    summary: |2-
       Capstone project: NI 43-101 full pre-feasibility study of a surface iron mine in Western Australia with complex zoning and enviromental regulatory concerns.
     
 # button:
@@ -134,7 +135,7 @@ work:
       Developed specialized and interactive reporting tools for executives using SQL, PowerBI, Visual Studio, and VBA.
       
       Onboarded 4 students and EITs to use the dispatch system and various business critical software (MMS D5, MS SQL DB, MS Visual Studio).
-      
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -217,4 +218,5 @@ awards:
 ---
 
 Data engineer working and delivering results in the oil and gas industry for over 7 years.
+
 Currently ingesting and integrating data, building scalable pipelines, and modeling mining data for the enterprise data team.
