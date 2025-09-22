@@ -32,15 +32,16 @@ sections:
 
   - block: markdown
     content:
-      username: admin
       title: 'Work Experience 💼'
       subtitle: ''
       text: ''
+
+      username: admin
       button:
         text: Read more
         url: experience/
-    design:
-      columns: '1'
+#   design:
+#     columns: '1'
 
 # - block: collection
 #    id: papers

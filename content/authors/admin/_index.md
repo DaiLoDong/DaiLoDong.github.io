@@ -52,7 +52,7 @@ education:
     date_start: 2015-09-01
     date_end: 2020-05-01
     summary: |
-      Capstone project on NI 43-101 pre-feasibility study of a surface iron mine in Western Australia
+      Capstone project: NI 43-101 full pre-feasibility study of a surface iron mine in Western Australia with complex zoning and enviromental regulatory concerns.
     
 # button:
 # text: 'Read Thesis'
@@ -200,7 +200,7 @@ awards:
       Processing plant design
 
       Financial modeling
-      
+
       Mine material placement scheduling
 ---
 
