@@ -21,7 +21,7 @@ sections:
       headings:
         about: ''
         education: ''
-        interests: ''
+        hobbies: ''
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
