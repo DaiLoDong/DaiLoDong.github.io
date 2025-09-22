@@ -65,7 +65,7 @@ work:
     company_logo: ''
     date_start: 2023-10-16
     date_end: 2025-06-09
-    summary: |2-
+    summary: |
       Embedded Finning-NACG resource for CAT Telematics data streaming uptime, analytics, troubleshooting.
       Exceeded target 95% reporting rate for the fleet of ~400 machines (increase of several percentage points over duration of contract).
       Consistently improved reporting uptime by approximately 2.4% week on week through proactive monitoring and maintenance.
@@ -80,7 +80,7 @@ work:
     company_logo: ''
     date_start: 2022-03-07
     date_end: 2025-06-09
-    summary: |2-
+    summary: |
       Delivered technical support by addressing database issues, data processing requests, and network troubleshooting, leveraging IT support experience.
       Created custom SQL reports integrating into PowerBI from CAT proprietary format (MS SQL, XML).
       Advised customers and colleagues on DBA best practices, reinforcing effective hardware and software troubleshooting
@@ -94,7 +94,7 @@ work:
     company_logo: ''
     date_start: 2020-05-04
     date_end: 2022-02-25
-    summary: |2-
+    summary: |
       Authored custom GPS point-plane projection algorithms to reduce runtime of ETL processes by ~90% and merged with short range plan to provide accurate data driven business value (MS SQL and SSIS).
       Integrated existing data pipelines/processes into production ETL (MS SQL and SSIS).
       Supported the shift team in data modeling, data quality management, and business logic translation to identify poor operations performers resulting in a 2 year highest achieving shift.
@@ -111,7 +111,7 @@ skills:
         description: ''
         percent: 100
         icon: code-bracket
-      - name: Data Analytics
+      - name: Snowflake
         description: ''
         percent: 95
         icon: chart-bar
@@ -131,17 +131,22 @@ skills:
       - name: Building Custom Keyboards
         description: ''
         percent: 90
-        icon: cpu-chip
+        icon: ⌨️
       - name: Cooking
         description: ''
         percent: 80
-        icon: book-open
+        icon: 🍳
 
 languages:
   - name: English
     percent: 100
   - name: Mandarin Chinese
-    percent: 50
+    percent: 75
+  - name: SQL
+    percent: 90
+  - name: Python
+    perncent: 25
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -153,7 +158,7 @@ awards:
     date: '2020-02-01'
     awarder: Canadian Mining Games
     icon: hero/trophy
-    summary: |2-
+    summary: |
       First place finish with the University of Alberta team. 3 year reigning champions. Hosted in Halifax, Nova Scotia.
       Personal event contribution:
       Ventilation Theory & Design (1st place)
@@ -165,7 +170,7 @@ awards:
     date: '2019-11-07'
     awarder: World Mining Competition
     icon: hero/trophy
-    summary: |2-
+    summary: |
       Third place finish in the World Mining Competition 2019 hosted in Saskatoon, SK.
       Consulation proposal style package prepared for a Cobalt mine located in the DRC.
       Personal event contribution:
