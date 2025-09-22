@@ -49,8 +49,8 @@ interests:
 education:
   - area: BASc Mining Engineering (Co-op)
     institution: University of Alberta
-    date_start: 2015
-    date_end: 2020
+    date_start: 2015-09-01
+    date_end: 2020-05-01
     summary: |
       Capstone project on NI 43-101 pre-feasibility study of a surface iron mine in Western Australia
     
@@ -114,7 +114,7 @@ skills:
       - name: Snowflake
         description: ''
         percent: 95
-        icon: chart-bar
+        icon: snowflake
       - name: Microsoft Azure (Azure data factory, Azure databricks)
         description: ''
         percent: 85
@@ -131,11 +131,11 @@ skills:
       - name: Building Custom Keyboards
         description: ''
         percent: 90
-        icon: ⌨️
+        icon: keyboard
       - name: Cooking
         description: ''
         percent: 80
-        icon: 🍳
+        icon: pan
 
 languages:
   - name: English
