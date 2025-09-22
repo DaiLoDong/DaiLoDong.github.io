@@ -41,7 +41,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/edward-dong/
     
-hobbies:
+interests:
   - Gaming
   - Cooking
   - Building custom keyboards
