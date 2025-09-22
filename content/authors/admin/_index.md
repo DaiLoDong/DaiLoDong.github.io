@@ -63,7 +63,7 @@ education:
   #  summary: |
   #    GPA: 4.0/4.0
 
-      Specialized in machine learning and robotics.
+#    Specialized in machine learning and robotics.
  # - area: BS Computer Science
  #   institution: MIT
  #   date_start: 2009-09-01
