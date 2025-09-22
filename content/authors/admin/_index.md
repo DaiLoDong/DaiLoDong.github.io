@@ -23,8 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
-
+role: Data Engineer
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Suncor Energy
@@ -52,26 +51,11 @@ education:
     date_start: 2015
     date_end: 2020
     summary: |
-      Capstone project on NI 43-101 pre-feasibility study of a surface iron mine in Western Australia.
-    # button:
-    #  text: 'Read Thesis'
-    #  url: 'https://example.com/thesis.pdf'
-  # - area: MS Computer Science
-  #  institution: Carnegie Mellon University
-  #  date_start: 2013-09-01
-  #  date_end: 2015-05-31
-  #  summary: |
-  #    GPA: 4.0/4.0
-
-#    Specialized in machine learning and robotics.
- # - area: BS Computer Science
- #   institution: MIT
- #   date_start: 2009-09-01
- #   date_end: 2013-05-31
- #   summary: |
- #     GPA: 3.9/4.0
-
-#    Minored in Mathematics. President of AI Club.
+      Capstone project on NI 43-101 pre-feasibility study of a surface iron mine in Western Australia
+    
+# button:
+# text: 'Read Thesis'
+# url: 'https://example.com/thesis.pdf'
 
 work:
   - position: Senior AI Research Scientist
