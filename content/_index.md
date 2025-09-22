@@ -32,14 +32,14 @@ sections:
 
   - block: markdown
     content:
-      title: 'Work Experience 💼'
+      title: '[Work Experience 💼](https://dailodong.github.io/experience/)'
       subtitle: ''
       text: ''
 
       #username: admin
-      button:
-      text: 'Read more'
-      url: 'https://dailodong.github.io/experience/'
+      #button:
+      #text: 'Read more'
+      #url: 'https://dailodong.github.io/experience/'
 #   design:
 #     columns: '1'
 
