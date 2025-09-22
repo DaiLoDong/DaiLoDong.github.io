@@ -31,6 +31,7 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+
 profiles:
   - icon: at-symbol
     url: 'mailto:edward@donger.ca'
@@ -58,55 +59,82 @@ education:
 # url: 'https://example.com/thesis.pdf'
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Telematics Data Streaming Specialist
+    company_name: Finning International
+    company_url: 'https://www.finning.com/en_CA.html'
     company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
+    date_start: 2023-10-16
+    date_end: 2025-06-09
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
+      Embedded Finning-NACG resource for CAT Telematics data streaming uptime, analytics, troubleshooting.
+      Exceeded target 95% reporting rate for the fleet of ~400 machines (increase of several percentage points over duration of contract).
+      Consistently improved reporting uptime by approximately 2.4% week on week through proactive monitoring and maintenance.
+      Completed over two dozen successful installations, including post-commissioning software verification to ensure operational readiness.
+      Produced weekly reporting updates to shareholders to ensure transparency and commitment on high priority items.
+      Coordinated with technician and site supervisors to prioritize and complete troubleshooting for non-reporting machines.
+      Collaborated with CAT Digital Operations group and the customer to navigate software development timelines.
+    
+  - position: Technology Support Specialist (Tier 2)
+    company_name: Finning International
+    company_url: 'https://www.finning.com/en_CA.html'
     company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+    date_start: 2022-03-07
+    date_end: 2025-06-09
+    summary: |2-
+      Delivered technical support by addressing database issues, data processing requests, and network troubleshooting, leveraging IT support experience.
+      Created custom SQL reports integrating into PowerBI from CAT proprietary format (MS SQL, XML).
+      Advised customers and colleagues on DBA best practices, reinforcing effective hardware and software troubleshooting
+      Managed customer relationships and provided technical support for CAT MineStar suite, ensuring consistent performance of end-user devices.
+      Executed both on-site and remote troubleshooting, performing equipment upgrades, repairs, and servicing to support timely resolution. 
+      Utilized Salesforce and Case ticketing systems to track and document IT issues, ensuring clear communication and efficient resolution.
+    
+  - position: EIT - Mine Data Systems & Reporting
+    company_name: Suncor Energy
+    company_url: 'https://www.suncor.com/'
+    company_logo: ''
+    date_start: 2020-05-04
+    date_end: 2022-02-25
+    summary: |2-
+      Authored custom GPS point-plane projection algorithms to reduce runtime of ETL processes by ~90% and merged with short range plan to provide accurate data driven business value (MS SQL and SSIS).
+      Integrated existing data pipelines/processes into production ETL (MS SQL and SSIS).
+      Supported the shift team in data modeling, data quality management, and business logic translation to identify poor operations performers resulting in a 2 year highest achieving shift.
+      Supervised the health of Mine Dispatch Network achieving an overall system availability > 99.8% in 2020.
+      Aided the integration of the Provision 3 Shovel Guidance System onto mine operations equipment and continue to provide ongoing real-time technical support.
+      Created documentation for training and onboarding engineers and dispatchers for MMS Dispatch 6 and Provision 3.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
+      - name: Microsoft SQL
         description: ''
         percent: 100
+        icon: code-bracket
+      - name: Data Analytics
+        description: ''
+        percent: 95
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: Microsoft Azure (Azure data factory, Azure databricks)
         description: ''
         percent: 85
         icon: cloud
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Gaming
         description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
+        percent: 100
+        icon: cpu-chip
+      - name: Building Custom Keyboards
         description: ''
         percent: 90
         icon: cpu-chip
-      - name: Sci-Fi Reading
+      - name: Cooking
         description: ''
-        percent: 70
+        percent: 80
         icon: book-open
 
 languages:
@@ -120,27 +148,30 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: Canadian Mining Games 2020 (1st Place)
+    url: https://canadianmininggames.org/
+    date: '2020-02-01'
+    awarder: Canadian Mining Games
     icon: hero/trophy
-    summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+    summary: |2-
+      First place finish with the University of Alberta team. 3 year reigning champions. Hosted in Halifax, Nova Scotia.
+      Personal event contribution:
+      Ventilation Theory & Design (1st place)
+      General Exam Package (1st place)
+      Mine Design (4th place)
+  
+  - title: World Mining Competition 2019 (3rd Place)
+    url: https://www.worldminingcompetition.com/
+    date: '2019-11-07'
+    awarder: World Mining Competition
+    icon: hero/trophy
+    summary: |2-
+      Third place finish in the World Mining Competition 2019 hosted in Saskatoon, SK.
+      Consulation proposal style package prepared for a Cobalt mine located in the DRC.
+      Personal event contribution:
+      Processing plant design
+      Financial modeling
+      Mine material placement scheduling
 ---
 
 Edward Dong sample text
