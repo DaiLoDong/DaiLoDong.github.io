@@ -32,9 +32,35 @@ sections:
 
   - block: markdown
     content:
-      title: '[Work Experience 💼](https://dailodong.github.io/experience/)'
+      title: 'Work Experience 💼)'
       subtitle: ''
       text: ''
+
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      # Date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+      
+  - block: resume-skills
+    content:
+      title: Skills & Software
+      username: admin
+    design:
+      show_skill_percentage: false
+
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
+      
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
 
       #username: admin
       #button:

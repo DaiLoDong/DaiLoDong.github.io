@@ -158,11 +158,6 @@ languages:
     percent: 100
   - name: Mandarin Chinese
     percent: 75
-  - name: SQL
-    percent: 90
-  - name: Python
-    percent: 25
-
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -204,4 +199,5 @@ awards:
       Mine material placement scheduling
 ---
 
-Edward Dong sample text
+Data engineer working and delivering results in the oil and gas industry for over 7 years.
+Currently ingesting and integrating data, building scalable pipelines, and modeling mining data for the enterprise data team.
