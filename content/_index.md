@@ -36,10 +36,10 @@ sections:
       subtitle: ''
       text: ''
 
-      username: admin
+      #username: admin
       button:
-        text: Read more
-        url: experience/
+      text: 'Read more'
+      url: /experience/
 #   design:
 #     columns: '1'
 
