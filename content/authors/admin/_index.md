@@ -118,6 +118,23 @@ work:
 
       Created documentation for training and onboarding engineers and dispatchers for MMS Dispatch 6 and Provision 3.
 
+  - position: Co-op - Mine Data Applications & Services
+    company_name: Suncor Energy
+    company_url: 'https://www.suncor.com/'
+    company_logo: ''
+    date_start: 2018-09-01
+    date_end: 2029-08-01
+    summary: |2-
+      Spearheaded new data merging process to integrate custom entry foreign data with dispatch SQL database.
+      
+      Optimized student daily data entry tasks to save ~1.5 hours every day.
+      
+      Provided timely mine technical support to troubleshoot critical systems and maintain >99.0% up-time.
+      
+      Developed specialized and interactive reporting tools for executives using SQL, PowerBI, Visual Studio, and VBA.
+      
+      Onboarded 4 students and EITs to use the dispatch system and various business critical software (MMS D5, MS SQL DB, MS Visual Studio).
+      
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
