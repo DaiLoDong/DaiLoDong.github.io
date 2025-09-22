@@ -39,7 +39,7 @@ sections:
       #username: admin
       button:
       text: 'Read more'
-      url: /experience/
+      url: 'https://dailodong.github.io/experience/'
 #   design:
 #     columns: '1'
 
