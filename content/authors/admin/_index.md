@@ -60,6 +60,15 @@ education:
 # url: 'https://example.com/thesis.pdf'
 
 work:
+  - position: Data Engineer - Enterprise Data
+    company_name: Suncor Energy
+    company_url: 'https://www.suncor.com/'
+    company_logo: ''
+    date_start: 2025-09-08
+    date_end: ''
+    summary: |2-
+      Current position
+    
   - position: Telematics Data Streaming Specialist
     company_name: Finning International
     company_url: 'https://www.finning.com/en_CA.html'
