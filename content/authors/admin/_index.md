@@ -14,7 +14,7 @@ last_name: Dong
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 💾
 
 # Is this the primary user of the site?
 superuser: true
@@ -69,45 +69,43 @@ work:
     summary: |2-
       Current position
     
-  - position: Telematics Data Streaming Specialist
+  - position: Data Specialist - Condition Based Monitoring
     company_name: Finning International
     company_url: 'https://www.finning.com/en_CA.html'
     company_logo: ''
     date_start: 2023-10-16
     date_end: 2025-06-09
     summary: |2-
-      Embedded Finning-NACG resource for CAT Telematics data streaming uptime, analytics, troubleshooting.
+      Embedded Finning-NACG resource for CAT Telematics data streaming, analytics, and remote troubleshooting.
 
       Exceeded target 95% reporting rate for the fleet of ~400 machines (increase of several percentage points over duration of contract).
 
       Consistently improved reporting uptime by approximately 2.4% week on week through proactive monitoring and maintenance.
 
-      Completed over two dozen successful installations, including post-commissioning software verification to ensure operational readiness.
+      Managed over two dozen successful installations, including post-commissioning software verification to ensure operational readiness.
 
-      Produced weekly reporting updates to shareholders to ensure transparency and commitment on high priority items.
+      Produced weekly reporting updates to multiple shareholders to ensure transparency and alignment on high priority items.
 
       Coordinated with technician and site supervisors to prioritize and complete troubleshooting for non-reporting machines.
 
-      Collaborated with CAT Digital Operations group and the customer to navigate software development timelines.
+      Collaborated with CAT Digital Operations team and NACG to navigate software development timelines.
     
-  - position: Technology Support Specialist (Tier 2)
+  - position: Technology Support Specialist II - Terrain & Minestar
     company_name: Finning International
     company_url: 'https://www.finning.com/en_CA.html'
     company_logo: ''
     date_start: 2022-03-07
     date_end: 2025-06-09
     summary: |2-
-      Delivered technical support by addressing database issues, data processing requests, and network troubleshooting, leveraging IT support experience.
+      Delivered technical support by addressing database issues, data processing requests, and site networking issues by leveraging IT support experience.
 
-      Created custom SQL reports integrating into PowerBI from CAT proprietary format (MS SQL, XML).
+      Developed custom SQL reports from CAT proprietary format (SQL, XML) and integrated into PowerBI.
 
-      Advised customers and colleagues on DBA best practices, reinforcing effective hardware and software troubleshooting.
+      Advised customers and colleagues on DBA best practices, reinforcing reliablility, stability, scalability, and security.
 
-      Managed customer relationships and provided technical support for CAT MineStar suite, ensuring consistent performance of end-user devices.
-
-      Executed both on-site and remote troubleshooting, performing equipment upgrades, repairs, and servicing to support timely resolution. 
-
-      Utilized Salesforce and Case ticketing systems to track and document IT issues, ensuring clear communication and efficient resolution.
+      Managed customer relationships (CRM) and ensured consistent performance of end-user devices using CAT MineStar suite.
+    
+      Utilized Salesforce and Case ticketing systems to track and document IT issues allowing for clear communication and efficient resolution.
     
   - position: EIT - Mine Data Systems & Reporting
     company_name: Suncor Energy
@@ -116,15 +114,15 @@ work:
     date_start: 2020-05-04
     date_end: 2022-02-25
     summary: |2-
-      Authored custom GPS point-plane projection algorithms to reduce runtime of ETL processes by ~90% and merged with short range plan to provide accurate data driven business value (MS SQL and SSIS).
+      Authored custom GPS point-plane projection algorithms to reduce runtime of ETL processes by ~90% and merged with short range plan to provide accurate data driven business value (SQL, SSIS).
 
-      Integrated existing data pipelines/processes into production ETL (MS SQL and SSIS).
+      Integrated existing data pipelines/processes into production ETL (SQL, SSIS).
 
       Supported the shift team in data modeling, data quality management, and business logic translation to identify poor operations performers resulting in a 2 year highest achieving shift.
 
-      Supervised the health of Mine Dispatch Network achieving an overall system availability > 99.8% in 2020.
+      Supervised the health of Mine Dispatch Network achieving an overall system availability > 99.8% in 2020-2021.
 
-      Aided the integration of the Provision 3 Shovel Guidance System onto mine operations equipment and continue to provide ongoing real-time technical support.
+      Provided real-time technical support on mine operations equipment using Provision 3 Shovel Guidance System.
 
       Created documentation for training and onboarding engineers and dispatchers for MMS Dispatch 6 and Provision 3.
 
@@ -135,15 +133,15 @@ work:
     date_start: 2018-09-01
     date_end: 2029-08-01
     summary: |2-
-      Spearheaded new data merging process to integrate custom entry foreign data with dispatch SQL database.
+      Spearheaded new data merging process to integrate custom entry foreign data with dispatch SQL database (SQL).
       
-      Optimized student daily data entry tasks to save ~1.5 hours every day.
+      Optimized student daily data entry tasks to save ~1.5 hours every day (SQL, VBA).
       
       Provided timely mine technical support to troubleshoot critical systems and maintain >99.0% up-time.
       
-      Developed specialized and interactive reporting tools for executives using SQL, PowerBI, Visual Studio, and VBA.
+      Developed specialized and interactive reporting tools for executives (SQL, PowerBI, Visual Studio, VBA).
       
-      Onboarded 4 students and EITs to use the dispatch system and various business critical software (MMS D5, MS SQL DB, MS Visual Studio).
+      Onboarded 4 students and EITs to use the dispatch system and various business critical software (MMS D5, SQL, Visual Studio).
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -157,7 +155,7 @@ skills:
       - name: Snowflake
         description: ''
         percent: 50
-        icon: snowflake
+        icon: ❄️
       - name: Microsoft Azure (Azure data factory, Azure databricks)
         description: ''
         percent: 75
