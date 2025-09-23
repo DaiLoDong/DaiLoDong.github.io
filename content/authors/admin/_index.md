@@ -146,7 +146,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Software & Frameworks
+  - name: ''
     items:
       - name: Microsoft SQL
         description: ''

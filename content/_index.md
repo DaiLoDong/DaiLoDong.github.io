@@ -47,7 +47,7 @@ sections:
       
   - block: resume-skills
     content:
-      title: Skills & Software
+      title: Software & Frameworks
       username: admin
     design:
       show_skill_percentage: false
