@@ -67,7 +67,19 @@ work:
     date_start: 2025-09-08
     date_end: ''
     summary: |2-
-      Current position
+      Supports dimesional modelling on Wenco-Minestar data migration as a technical team member.
+
+      Develops, tests, and documents code to support the creation of robust and scalable applications for data reporting and analytics (JSON, SQL, Python)
+
+      Tests and builds automated processes to support product development lifecycle.
+
+      Supports the implementation of data models to build the data lake for analytics and reporting use cases.
+
+      Adheres to Data Modeling, Data Warehousing naming conventions, data governance, and Information Classification policies.
+
+      Catalogue’s data artifacts that integrate information from various sources into a common repository.
+
+      Develop end to end data pipelines following best practices in product development and operations.
     
   - position: Data Specialist - Condition Based Monitoring
     company_name: Finning International
